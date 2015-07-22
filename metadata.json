@@ -1,9 +1,9 @@
 {
   "name": "flypenguin-mkdirp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Axel Bock <mr.axel.bock@gmail.com>",
   "license": "MIT",
-  "summary": "Provides a useful mkdir::p define, works only on *nix, tested on Linux",
+  "summary": "DEPRECATED. HAD TO RENAME. PLEASE USE FLYPENGUIN/MKDIR. SORRY :)",
   "source": "https://github.com/flypenguin/puppet-mkdirp.git",
   "tags": [
     "mkdir",
